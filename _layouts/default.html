@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+    <span itemscope itemtype="http://schema.org/SoftwareApplication">
+
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+    <meta itemprop="name" content="Santulator-">
+    <meta itemprop="softwareVersion" content="{{site.release_version}}">
+    <meta itemprop="operatingSystem" content="OSX, Windows, Linux">
+    <meta itemprop="applicationCategory" content="Languages">
+    </span>
+  </body>
+
+</html>

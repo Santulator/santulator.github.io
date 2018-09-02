@@ -1,5 +1,6 @@
 _site
 .sass-cache
+.jekyll-metadata
 
 .DS_Store
 
@@ -14,5 +15,3 @@ out
 .classpath
 
 *.log
-
-Gemfile.lock

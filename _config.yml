@@ -1,0 +1,26 @@
+# Site settings
+title: Santulator
+description:
+  Santulator helps you run your Secret Santa draw simply and flexibly.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://santulator.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# logo: /assets/Santulaor-Logo.png
+twitter:
+  username: vocabhunterapp
+  link: https://twitter.com/vocabhunterapp
+github_username: AdamCarroll
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+authors:
+  Adam:
+    display_name: Adam Carroll
+    web: https://github.com/AdamCarroll
+
+release_version: UNRELEASED
