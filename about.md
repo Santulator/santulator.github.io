@@ -19,7 +19,7 @@ The system is Open Source Software, published under the [Apache Licence, Version
 Santulator wouldn't be possible without the amazing work of others on some great Open Source software.  The following is a list of a few of those projects:
 
 * [JavaFX] is used for the Santulator user interface.  Take a look at the article [How JavaFX was used to build a desktop application] to find out more about using JavaFX.
-* As part of every build, the user interface is tested automatically using [TestFX].  Read the guide [User Interface Testing with TestFX] to find out how to do this in your project.
+* As part of every build, the user interface is tested automatically using [TestFX].  Read the guide [User Interface Testing with TestFX] to learn how to do this in your project.
 * Several of the user interface controls come from the [ControlsFX] library.
 * The Santulator software uses [Gluon Ignite] and [Guice] for dependency injection.  The article [Dependency Injection in JavaFX] explains how this can be done.
 
