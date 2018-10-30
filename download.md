@@ -10,7 +10,39 @@ image: /assets/Santulator-Download.png
 
 Santulator is available for Mac, Windows and Linux.
 
-Santulator is a work in progress.  Check back soon for the first release.  Until then, if you're technically minded, you can try the pre-release version using the GitHub information below.
+# Apple Mac
+
+You can download the latest version of Santulator for the Mac here: [Santulator-{{site.release_version}}.pkg](https://github.com/Santulator/Santulator/releases/download/{{site.release_version}}/Santulator-{{site.release_version}}.pkg).
+
+Double click the downloaded file and you will be lead through the installation process.  This process will place the ``Santulator.app`` file in the ``Applications`` folder.  You will then be able to launch it like any other Mac application.
+
+# Linux
+
+The latest release of Santulator can be downloaded as a Deb file here: [Santulator-{{site.release_version}}.deb](https://github.com/Santulator/Santulator/releases/download/{{site.release_version}}/Santulator-{{site.release_version}}.deb).
+
+You can install the package as follows:
+
+~~~
+$ sudo dpkg -i Santulator-{{site.release_version}}.deb
+~~~
+
+Santulator will now run like any other Linux desktop application.
+
+# Microsoft Windows
+
+If you'd like to try Santulator on Windows, you can find the installer here: [setup.exe](https://github.com/Santulator/Santulator/releases/download/{{site.release_version}}/setup.exe).
+
+Double click on the file and you will be taken through the process of installing Santulator on your PC.
+
+# What to Do Now
+
+Having installed Santulator you're now ready to run your first Secret Santa draw.  The [help](/help) page has a step-by-step guide on how to do this.
+
+For Santulator news and announcements of new releases, follow [@{{site.twitter.username}}]({{site.twitter.link}}) on Twitter.
+
+# Older Releases
+
+A full list of releases for download can be found on the [project release page](https://github.com/Santulator/Santulator/releases).
 
 # Information for Techies
 
