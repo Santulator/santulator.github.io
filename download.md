@@ -18,12 +18,12 @@ Double click the downloaded file and you will be lead through the installation p
 
 # Linux
 
-The latest release of Santulator can be downloaded as a Deb file here: [Santulator-{{site.release_version}}.deb](https://github.com/Santulator/Santulator/releases/download/{{site.release_version}}/Santulator-{{site.release_version}}.deb).
+The latest release of Santulator can be downloaded as a Deb file here: [santulator-{{site.release_version}}.deb](https://github.com/Santulator/Santulator/releases/download/{{site.release_version}}/santulator-{{site.release_version}}.deb).
 
 You can install the package as follows:
 
 ~~~
-$ sudo dpkg -i Santulator-{{site.release_version}}.deb
+$ sudo dpkg -i santulator-{{site.release_version}}.deb
 ~~~
 
 Santulator will now run like any other Linux desktop application.
