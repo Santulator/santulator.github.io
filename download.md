@@ -30,7 +30,7 @@ Santulator will now run like any other Linux desktop application.
 
 # Microsoft Windows
 
-If you'd like to try Santulator on Windows, you can find the installer here: [setup.exe](https://github.com/Santulator/Santulator/releases/download/{{site.release_version}}/setup.exe).
+If you'd like to try Santulator on Windows, you can find the installer here: [Santulator-{{site.release_version}}.exe](https://github.com/Santulator/Santulator/releases/download/{{site.release_version}}/Santulator-{{site.release_version}}.exe).
 
 Double click on the file and you will be taken through the process of installing Santulator on your PC.
 
