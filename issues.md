@@ -20,8 +20,9 @@ Please include as much relevant information as you can when you report the probl
 
 * A list of the steps to reproduce the problem.
 * A screenshot illustrating the problem if the issue is a visual one.
+* Save the session to a `.santa` file and include this.
 * Are you running a Mac, Linux or Windows?
-* The ``system.log`` file.  See the section below for details of how to obtain this.
+* The `system.log` file.  See the section below for details of how to obtain this.
 
 # Where to Find the Log File
 
