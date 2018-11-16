@@ -22,6 +22,7 @@ Santulator wouldn't be possible without the amazing work of others on some great
 * As part of every build, the user interface is tested automatically using [TestFX].  Read the guide [User Interface Testing with TestFX] to learn how to do this in your project.
 * Several of the user interface controls come from the [ControlsFX] library.
 * The Santulator software uses [Gluon Ignite] and [Guice] for dependency injection.  The article [Dependency Injection in JavaFX] explains how this can be done.
+* [OpenPDF] is used to generate the PDF files that show the participants who they will be buying presents for.
 
 [Adam Carroll]:https://github.com/AdamCarroll/
 [download]:/download
@@ -37,3 +38,4 @@ Santulator wouldn't be possible without the amazing work of others on some great
 [Gluon Ignite]:http://gluonhq.com/labs/ignite/
 [Guice]:https://github.com/google/guice
 [TestFX]:https://github.com/TestFX/TestFX
+[OpenPDF]:https://github.com/LibrePDF/OpenPDF
