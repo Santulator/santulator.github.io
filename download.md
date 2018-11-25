@@ -51,3 +51,5 @@ A full list of releases for download can be found on the [project release page](
 If you'd like to build Santulator from the source code and even contribute to the project, you can find it on GitHub at: [https://github.com/Santulator/Santulator](https://github.com/Santulator/Santulator).
 
 Santulator is Open Source Software, published under the [Apache Licence, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
+
+![Santulator draw results](/assets/Santulator-Draw-Selection-Two-Cards.png){: .center-image }
