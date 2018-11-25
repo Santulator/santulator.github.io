@@ -8,7 +8,9 @@ description: Download Santulator for Mac, Windows or Linux
 image: /assets/Santulator-Download.png
 ---
 
-Santulator is available for Mac, Windows and Linux.
+![Download Santulator](/assets/Santulator-Download-Link.png){: .center-image }
+
+Santulator is available for Mac, Linux and Windows.
 
 # Apple Mac
 
