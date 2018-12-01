@@ -23,6 +23,7 @@ Santulator wouldn't be possible without the amazing work of others on some great
 * Several of the user interface controls come from the [ControlsFX] library.
 * The Santulator software uses [Gluon Ignite] and [Guice] for dependency injection.  The article [Dependency Injection in JavaFX] explains how this can be done.
 * [OpenPDF] is used to generate the PDF files that show the participants who they will be buying presents for.
+* The installable bundles for Mac, Linux and Windows are built using the Java Packager.  You can read all about this in the article [Using the Java Packager with JDK 11].
 
 [Adam Carroll]:https://github.com/AdamCarroll/
 [download]:/download
@@ -32,6 +33,7 @@ Santulator wouldn't be possible without the amazing work of others on some great
 [How JavaFX was used to build a desktop application]:https://medium.com/@TechKing/how-javafx-was-used-to-build-a-desktop-application-7d4c680d8dc
 [User Interface Testing with TestFX]:https://medium.com/@adam_carroll/user-interface-testing-with-testfx-5747ba02b0ec
 [Dependency Injection in JavaFX]:https://vocabhunter.github.io/2016/11/13/JavaFX-Dependency-Injection.html
+[Using the Java Packager with JDK 11]:https://medium.com/@adam_carroll/java-packager-with-jdk11-31b3d620f4a8
 
 [JavaFX]:https://openjfx.io/
 [ControlsFX]:http://fxexperience.com/controlsfx/
