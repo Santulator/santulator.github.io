@@ -30,7 +30,7 @@ Santulator wouldn't be possible without the amazing work of others on some great
 [Apache Licence, Version 2.0]:http://www.apache.org/licenses/LICENSE-2.0
 [GitHub]:https://github.com/Santulator/Santulator
 
-[How JavaFX was used to build a desktop application]:https://medium.com/@TechKing/how-javafx-was-used-to-build-a-desktop-application-7d4c680d8dc
+[How JavaFX was used to build a desktop application]:https://medium.com/techking/how-javafx-was-used-to-build-a-desktop-application-7d4c680d8dc
 [User Interface Testing with TestFX]:https://medium.com/@adam_carroll/user-interface-testing-with-testfx-5747ba02b0ec
 [Dependency Injection in JavaFX]:https://vocabhunter.github.io/2016/11/13/JavaFX-Dependency-Injection.html
 [Using the Java Packager with JDK 11]:https://medium.com/@adam_carroll/java-packager-with-jdk11-31b3d620f4a8
