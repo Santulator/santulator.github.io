@@ -14,6 +14,11 @@ The system is Open Source Software, published under the [Apache Licence, Version
 
 [Adam Carroll] is the principal author of Santulator.
 
+# Technical Articles
+
+* [Using the Java Packager with JDK 11] - Santulator has native installable bundles for Mac, Linux and Windows.  This article explains how this was achieved.
+* [Open Source & Secret Santa with Santulator] - In this post on the King Tech Blog I give some of the details on how Santulator works behind the scenes including how JavaFX CSS is used to create the festive colour scheme in the user interface.
+
 # Acknowledgements and Thanks
 
 Santulator wouldn't be possible without the amazing work of others on some great Open Source software.  The following is a list of a few of those projects:
@@ -34,6 +39,7 @@ Santulator wouldn't be possible without the amazing work of others on some great
 [User Interface Testing with TestFX]:https://medium.com/@adam_carroll/user-interface-testing-with-testfx-5747ba02b0ec
 [Dependency Injection in JavaFX]:https://vocabhunter.github.io/2016/11/13/JavaFX-Dependency-Injection.html
 [Using the Java Packager with JDK 11]:https://medium.com/@adam_carroll/java-packager-with-jdk11-31b3d620f4a8
+[Open Source & Secret Santa with Santulator]:https://medium.com/techking/open-source-secret-santa-with-santulator-9101972359fc
 
 [JavaFX]:https://openjfx.io/
 [ControlsFX]:http://fxexperience.com/controlsfx/
