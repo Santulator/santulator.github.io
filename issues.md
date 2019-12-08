@@ -36,4 +36,4 @@ The `system.log` file contains information that can help to find out what Santul
 
 # Fixing Problems
 
-Santulator is Open Source Software and the project welcomes code contributions.  If you can fix the problem yourself, please send a [GitHub Pull Request](https://help.github.com/articles/about-pull-requests/).
+Santulator is Open Source Software and the project welcomes code contributions.  If you can fix the problem yourself, please send a [GitHub Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests).

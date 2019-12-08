@@ -67,4 +67,4 @@ If you'd like to stay up-to-date on the latest on Santulator, follow [@{{site.tw
 
 If you find a bug, please report it.  You can find details on how to do this on the [How to Report a Bug](/issues) page.
 
-If you can fix the problem yourself, please send a [GitHub Pull Request](https://help.github.com/articles/about-pull-requests/).
+If you can fix the problem yourself, please send a [GitHub Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests).
