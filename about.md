@@ -42,7 +42,7 @@ Santulator wouldn't be possible without the amazing work of others on some great
 [Open Source & Secret Santa with Santulator]:https://medium.com/techking/open-source-secret-santa-with-santulator-9101972359fc
 
 [JavaFX]:https://openjfx.io/
-[ControlsFX]:http://fxexperience.com/controlsfx/
+[ControlsFX]:https://github.com/controlsfx/controlsfx
 [Gluon Ignite]:http://gluonhq.com/labs/ignite/
 [Guice]:https://github.com/google/guice
 [TestFX]:https://github.com/TestFX/TestFX
