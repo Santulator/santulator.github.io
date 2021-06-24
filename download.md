@@ -14,18 +14,18 @@ Santulator is available for Mac, Linux and Windows.
 
 # Apple Mac
 
-You can download the latest version of Santulator for the Mac here: [Santulator-{{site.release_version}}.pkg](https://github.com/Santulator/Santulator/releases/download/{{site.release_version}}/Santulator-{{site.release_version}}.pkg).
+You can download the latest version of Santulator for the Mac here: [Santulator-{{site.release_version}}.dmg](https://github.com/Santulator/Santulator/releases/download/{{site.release_version}}/Santulator-{{site.release_version}}.dmg)
 
-Double click the downloaded file and you will be lead through the installation process.  This process will place the ``Santulator.app`` file in the ``Applications`` folder.  You will then be able to launch it like any other Mac application.
+Double click the file and in the window that opens, drag the `Santulator.app` file into the `Applications` folder.  You should be able to launch it like any other Mac application.
 
 # Linux
 
-The latest release of Santulator can be downloaded as a Deb file here: [santulator-{{site.release_version}}.deb](https://github.com/Santulator/Santulator/releases/download/{{site.release_version}}/santulator-{{site.release_version}}.deb).
+The latest release of Santulator can be downloaded as a `.deb` file here: [santulator_{{site.release_version}}-1_amd64.deb](https://github.com/Santulator/Santulator/releases/download/{{site.release_version}}/santulator_{{site.release_version}}-1_amd64.deb).
 
 You can install the package as follows:
 
 ~~~
-$ sudo dpkg -i santulator-{{site.release_version}}.deb
+$ sudo dpkg -i santulator_{{site.release_version}}-1_amd64.deb
 ~~~
 
 Santulator will now run like any other Linux desktop application.
