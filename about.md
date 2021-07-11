@@ -16,8 +16,8 @@ The system is Open Source Software, published under the [Apache Licence, Version
 
 # Technical Articles
 
-* [Using the Java Packager with JDK 11] - Santulator has native installable bundles for Mac, Linux and Windows.  This article explains how this was achieved.
 * [Open Source & Secret Santa with Santulator] - In this post on the King Tech Blog I give some of the details on how Santulator works behind the scenes including how JavaFX CSS is used to create the festive colour scheme in the user interface.
+* [Installable Java Apps with jpackage] - Santulator has native installable bundles for Mac, Linux and Windows.  This article explains how this was achieved.
 
 # Acknowledgements and Thanks
 
@@ -28,7 +28,7 @@ Santulator wouldn't be possible without the amazing work of others on some great
 * Several of the user interface controls come from the [ControlsFX] library.
 * The Santulator software uses [Gluon Ignite] and [Guice] for dependency injection.  The article [Dependency Injection in JavaFX] explains how this can be done.
 * [OpenPDF] is used to generate the PDF files that show the participants who they will be buying presents for.
-* The installable bundles for Mac, Linux and Windows are built using the Java Packager.  You can read all about this in the article [Using the Java Packager with JDK 11].
+* The installable bundles for Mac, Linux and Windows are built using the Java Packager.  You can read all about this in the article [Installable Java Apps with jpackage].
 
 [Adam Carroll]:https://github.com/AdamCarroll/
 [download]:/download
@@ -38,7 +38,7 @@ Santulator wouldn't be possible without the amazing work of others on some great
 [How JavaFX was used to build a desktop application]:https://medium.com/techking/how-javafx-was-used-to-build-a-desktop-application-7d4c680d8dc
 [User Interface Testing with TestFX]:https://medium.com/@adam_carroll/user-interface-testing-with-testfx-5747ba02b0ec
 [Dependency Injection in JavaFX]:https://vocabhunter.github.io/2016/11/13/JavaFX-Dependency-Injection.html
-[Using the Java Packager with JDK 11]:https://medium.com/@adam_carroll/java-packager-with-jdk11-31b3d620f4a8
+[Installable Java Apps with jpackage]:https://vocabhunter.github.io/2021/07/10/installable-java-apps-with-jpackage.html
 [Open Source & Secret Santa with Santulator]:https://medium.com/techking/open-source-secret-santa-with-santulator-9101972359fc
 
 [JavaFX]:https://openjfx.io/
