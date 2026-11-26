@@ -61,7 +61,7 @@ If you need to run the same draw with the same people each year, you might like 
 
 ## News and Announcements
 
-If you'd like to stay up-to-date on the latest on Santulator, follow [@{{site.twitter.username}}]({{site.twitter.link}}) on Twitter.  And for the programmers out there, don't forget you can always fork the [Santulator Open Source project on GitHub](https://github.com/Santulator/Santulator).
+And for the programmers out there, don't forget you can always fork the [Santulator Open Source project on GitHub](https://github.com/Santulator/Santulator).
 
 ## What to Do if You Find a Bug
 

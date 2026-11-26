@@ -5,9 +5,6 @@ description:
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://santulator.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 logo: /assets/Santulator-Logo.png
-twitter:
-  username: vocabhunterapp
-  link: https://twitter.com/vocabhunterapp
 github_username: AdamCarroll
 
 # Build settings

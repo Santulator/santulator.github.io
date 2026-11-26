@@ -40,8 +40,6 @@ Double click on the file and you will be taken through the process of installing
 
 Having installed Santulator you're now ready to run your first Secret Santa draw.  The [help](/help) page has a step-by-step guide on how to do this.
 
-For Santulator news and announcements of new releases, follow [@{{site.twitter.username}}]({{site.twitter.link}}) on Twitter.
-
 # Older Releases
 
 A full list of releases for download can be found on the [project release page](https://github.com/Santulator/Santulator/releases).
